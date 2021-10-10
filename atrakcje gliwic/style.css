@@ -1,0 +1,31 @@
+@font-face{
+
+font-family: Luminari;
+
+src:url(Luminari-Regular.ttf);
+
+}
+body{
+    background-color:black;
+}
+h1{
+    text-align: center;
+    font-family: 'Luminari';
+    color:white;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+img{
+    width: 400px;
+    height: 600px;
+    border-radius: 10px;
+    transition: width 0.5s, height 0.5s;
+}
+img:hover{
+    width:450px;
+    height:650px;
+}
