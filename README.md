@@ -1,0 +1,1 @@
+# atrakcje_gliwic
