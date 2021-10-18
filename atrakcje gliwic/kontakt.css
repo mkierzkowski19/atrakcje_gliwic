@@ -5,8 +5,7 @@
 body {
 	background-color: black;
 }
-header {
-}
+
 h1 {
 	color: white;
 	font-family: "Luminari";
@@ -25,8 +24,7 @@ h1 {
 	text-decoration: none;
 	padding: 10px 5px;
 }
-#wyslij {
-}
+
 fieldset {
 	border: none;
 }
