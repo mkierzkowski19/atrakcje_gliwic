@@ -8,19 +8,20 @@
 		<title>Kontakt</title>
 	</head>
 	<body>
-		<header>
-			<h1>Kontakt</h1>
-		</header>
+		
 		<form action="kontakt.html" class="kontakt">
+			<h1>Kontakt</h1>
 			<div class="pole-kontakt">
-				<input type="text" class="imie-nazwisko">
-				<span data-placeholder="imie-nazwisko"></span>
+				<label for="imie i nazwisko">Imie i nazwisko</label>
+				<input type="text" class="imie-nazwisko" name="imie i nazwisko">
 			</div>
 			<div class="pole-kontakt">
-				<input type="email" class="email">
-				<span data-placeholder="email"></span>
+				<label for="email">Email</label>
+				<input type="email" class="email" name="email">
 			</div>	
-			<input type="submit" class="wyslij" value="wyślij">
+			<!-- <div class="submit"> -->
+				<input type="submit" class="wyslij" value="wyślij">
+			<!-- </div> -->
 		</form>
 	</body>
 </html>
