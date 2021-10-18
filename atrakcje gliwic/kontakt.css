@@ -2,7 +2,9 @@
 	font-family: Luminari;
 	src: url(Luminari-Regular.ttf);
 }
-body {
+*{
+	margin: 0;
+	padding: 0;
 	
 }
 
