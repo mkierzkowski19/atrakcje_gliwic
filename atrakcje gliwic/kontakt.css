@@ -3,23 +3,13 @@
 	src: url(Luminari-Regular.ttf);
 }
 body {
-	background-color: black;
+	
 }
 
 h1 {
 	color: white;
 	font-family: "Luminari";
 	background-color: black;
-	display: block;
-	text-align: center;
-}
-
-
-fieldset {
-	border: none;
-}
-label {
-	color: white;
 	display: block;
 	text-align: center;
 }
