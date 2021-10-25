@@ -12,18 +12,18 @@ h1 {
 	color: white;
 }
 
-ul {
+nav ul {
 	list-style: none;
 	display: flex;
 	justify-content: space-around;
 }
-img {
+nav img {
 	width: 400px;
 	height: 600px;
 	border-radius: 10px;
 	transition: width 0.5s, height 0.5s;
 }
-img:hover {
+nav img:hover {
 	width: 450px;
 	height: 650px;
 }
