@@ -5,7 +5,7 @@
 body{
     margin: 0;
     margin-top: 0;
-    background-image: url("kolejkowo2.jpg");
+    background-image: url("../img/kolejkowo2.jpg");
     background-size: cover;
     background-attachment: fixed;
 }
